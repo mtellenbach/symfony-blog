@@ -13,3 +13,5 @@
 /app/.phpunit.result.cache
 /app/phpunit.xml
 ###< symfony/phpunit-bridge ###
+
+/database/*
